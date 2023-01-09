@@ -1,0 +1,6 @@
+D:\Prajit_3328\dot net\Assignment_dotnet\AssignmentDotnet\AssignmentDotnet\bin\Debug\AssignmentDotnet.exe.config
+D:\Prajit_3328\dot net\Assignment_dotnet\AssignmentDotnet\AssignmentDotnet\bin\Debug\AssignmentDotnet.exe
+D:\Prajit_3328\dot net\Assignment_dotnet\AssignmentDotnet\AssignmentDotnet\bin\Debug\AssignmentDotnet.pdb
+D:\Prajit_3328\dot net\Assignment_dotnet\AssignmentDotnet\AssignmentDotnet\obj\Debug\AssignmentDotnet.csproj.CoreCompileInputs.cache
+D:\Prajit_3328\dot net\Assignment_dotnet\AssignmentDotnet\AssignmentDotnet\obj\Debug\AssignmentDotnet.exe
+D:\Prajit_3328\dot net\Assignment_dotnet\AssignmentDotnet\AssignmentDotnet\obj\Debug\AssignmentDotnet.pdb
