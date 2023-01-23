@@ -1,0 +1,28 @@
+a{
+    background-color: rgb(206, 187, 162);
+    margin: 10px;
+    padding: 5px ;
+    border-radius: 50rem;
+    border: 2px solid black;
+  
+  }
+img{
+    padding-left: 400px;
+    width: 50%;
+    height: 20%;
+}  
+.d{
+    padding-left: 550px;
+    width: 400px;
+    height: 5%;
+}
+.e{
+    padding-left: 550px;
+    width: 400px;
+    height: 5%;
+}
+table, th, td {
+    /* border: 1px solid black; */
+    border-collapse: collapse;
+    background-color: antiquewhite;
+  }
